@@ -2,7 +2,7 @@
 A collection of various cybersecurity report templates, with a focus on ones relevant to the TCM Security certification exams. 
 
 ## Exam report templates/examples
-### Network Pentest report template (PNPT/PJPT)
+### Network Pentest report templates (PNPT/PJPT)
 * TCMS's: <https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report>
 * Many organizations': <https://github.com/juliocesarfort/public-pentesting-reports/>
 ### Webapp Pentest report templates (PWPA/PWPP)
