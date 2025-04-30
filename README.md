@@ -20,3 +20,4 @@ A collection of various cybersecurity report templates, with a focus on ones rel
 ### Mobile Pentest report templates (PMPA)
 * From MITRE: <https://github.com/juliocesarfort/public-pentesting-reports/blob/master/MITRE/pr-16-0202-android-security-analysis-final-report.pdf>
 * From CertiK: <https://github.com/juliocesarfort/public-pentesting-reports/blob/master/CertiK/BHP_Mobile_Wallet_Penetration_Test_Report_01-09-2021.pdf>
+* From Blaze Information Security: <https://www.blazeinfosec.com/wp-content/uploads/2022/11/Blaze-Sample_Mobile_App_Pentest_Report.pdf>
