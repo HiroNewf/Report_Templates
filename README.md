@@ -1,5 +1,5 @@
 # Report_Templates
-A collection of various cybersecurity report templates. 
+A collection of various cybersecurity report templates and/or examples for reference. 
 
 ## Report templates/examples
 ### Network Pentest report templates
