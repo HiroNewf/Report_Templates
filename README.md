@@ -6,6 +6,7 @@ A collection of various cybersecurity report templates, with a focus on ones rel
 * From TCMS: <https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report>
 * From many organizations: <https://github.com/juliocesarfort/public-pentesting-reports/>
 * From HackTheBox: <https://www.hackthebox.com/storage/press/samplereport/sample-penetration-testing-report-template.pdf>
+* From OffSec: <https://www.offsec.com/pwk-online/PWK-Example-Report-v1.pdf>
 ### Webapp Pentest report templates (PWPA/PWPP)
 * From Erubius: <https://github.com/Erubius/HackingHub-NahamCon-2024-Mission>
 * From SixSecure: <https://github.com/Ryan-Sapone/Web-Pentest-Report>
