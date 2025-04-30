@@ -12,7 +12,7 @@ A collection of various cybersecurity report templates, with a focus on ones rel
 * From SixSecure: <https://github.com/Ryan-Sapone/Web-Pentest-Report>
 ### OSINT Investigation templates (PORP)
 * From TCMS: <https://github.com/TCM-Security/osint>
-* Hiro's: <https://github.com/HiroNewf/OSINT-Investigation-Report>
+* From Hiro: <https://github.com/HiroNewf/OSINT-Investigation-Report>
 ### Malware Analysis report templates (PMRP)
 * From CISA: <https://www.cisa.gov/sites/default/files/publications/MAR-10398871.r1.v2.WHITE.pdf> 
 * From NCSC: <https://www.ncsc.gov.uk/static-assets/documents/malware-analysis-reports/infamous-chisel/NCSC-MAR-Infamous-Chisel.pdf>
